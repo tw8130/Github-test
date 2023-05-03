@@ -7,7 +7,8 @@ puts "   /   |"
 puts "  /    |"
 puts " /_____|"
 
-#a simple ruby program calculator
+#a ruby program calculator
+
 puts "Enter a number:"
 num1 = gets.chomp().to_i
 puts "Enter another number:"
