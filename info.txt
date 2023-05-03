@@ -7,6 +7,8 @@ puts "   /   |"
 puts "  /    |"
 puts " /_____|"
 
+#a ruby program calculator
+
 puts "Enter a number:"
 num1 = gets.chomp().to_i
 puts "Enter another number:"
@@ -17,4 +19,14 @@ puts( num1 - num2)
 puts( num1 * num2)
 puts( num1 / num2)
 
+
+# Ruby program to find the 
+# area of the circle
+
+print "Enter radius: "
+radius = gets.chomp.to_i  
+
+area = 3.14 * radius * radius;
+
+print "Area of circle: ",area
 
