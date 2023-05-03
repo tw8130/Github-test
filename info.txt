@@ -14,4 +14,6 @@ num2 = gets.chomp().to_i
 
 puts( num1 + num2)
 puts( num1 - num2)
+puts( num1 * num2)
+
 
